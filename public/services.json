@@ -1,0 +1,55 @@
+[
+    {
+        "key":1,
+        "name":"Fish fry ",
+        "price":"250",
+        "or":"Food will be delivered to your within an hour .Thank you",
+        "description": "Our dal fry here is of high quality .So place an order without delay",
+        "img": "https://thumbs.dreamstime.com/b/homemade-fish-fry-coconut-oil-exotic-spices-herbs-kerala-recipe-indian-cuisine-healthy-tasty-seafood-fish-fry-152991204.jpg"
+    },
+    {
+        "key":2,
+        "name":"fish fry",
+        "price":"200",
+        "or":"Food will be delivered to your within an hour .Thank you",
+        "description": "Our fish fry here is of high quality .So place an order without delay",
+        "img": "https://veggiefoodrecipes.com/wp-content/uploads/2016/12/easy-dal-fry-recipe-dhaba-style-dal-fry-01-700x525.jpg"
+    },
+    {
+        "key":3,
+        "name":"Burger",
+        "price":"180",
+        "or":"Food will be delivered to your within an hour .Thank you",
+        "description": " Our burger here is of high quality .So place an order without delay",
+        "img": "https://media.istockphoto.com/photos/delicious-meal-picture-id1295387240?b=1&k=20&m=1295387240&s=170667a&w=0&h=KtWYFjSBgpNgVkE3P-WKZ2F6V-VxyUBBtJIP_k8IANM="
+    },
+    {
+        "key":4,
+        "name":"chiken fry",
+        "price":"200",
+        "or":"Food will be delivered to your within an hour .Thank you",
+        "description": "Our chiken fry here is of high quality .So place an order without delay",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIumIjf_pq7Mg5s48wyh6F9DIM4O5ugVFMnw&usqp=CAU"
+    },
+    {
+        "key":5,
+        "name":"chiken birani",
+        "price":"300",
+        "or":"Food will be delivered to your within an hour .Thank you",
+        "description": " Our bibani here is of high quality .So place an order without delay ",
+        "img": "https://image.shutterstock.com/image-photo/chicken-biryani7-260nw-155422469.jpg"
+    },
+    {
+        "key":6,
+        "price": "150",
+        "or":"Food will be delivered to your within an hour .Thank you",
+        "name":"medicine is offerd home delivery from here",
+        "description": "Our egg fry here is of high quality .So place an order without delay",
+        "img": "https://i1.wp.com/myvegetarianroots.com/wp-content/uploads/2020/08/DSC_0033.jpeg?resize=1536%2C1022&ssl=1"
+    }
+]
+
+
+
+
+
