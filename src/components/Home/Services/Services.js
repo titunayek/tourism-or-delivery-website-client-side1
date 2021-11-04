@@ -5,11 +5,11 @@ import './Services.css'
 const Services = () => {
     const [services, setServices] = useState([]);
     useEffect( () =>{
-        fetch('http://pure-hollows-50662.herokuapp.com/products')
+        fetch('https://pure-hollows-50662.herokuapp.com/products')
         .then(res => res.json())
         .then(data => setServices(data))
     } , [])
-
+ 
     return (
         <div id='services'>
             <div className='service-con'>
