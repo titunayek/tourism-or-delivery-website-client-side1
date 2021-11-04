@@ -6,7 +6,7 @@ import Login from "./components/Login/Login";
 import NotFound from "./components/NotFound/NotFound";
 import Orders from "./components/Orders/Orders";
 import AuthProvider from "./counts/AuthProvider";
-
+import PrivateRoute from "./components/Login/PrivateRoute/PrivateRoute"
 
 
 
@@ -26,9 +26,9 @@ function App() {
        <Route  path='/login'>
          <Login></Login>
        </Route>
-       <Route path='/orders/:serviceId'>
+       <PrivateRoute path='/orders/:serviceId'>
          <Orders></Orders>
-       </Route>
+       </PrivateRoute>
        <Route  path="*">
          <NotFound></NotFound>
        </Route>

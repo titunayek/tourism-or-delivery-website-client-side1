@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import useAuth from '../../hooks/useAuth';
 
 const Header = () => {
-    const {user} = useAuth
+    const {user, logout} = useAuth();
     return (
         <>
         <Navbar bg="dark" variant="dark" sticky='top' collapseOnSelect expand='lg'>
